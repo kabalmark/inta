@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Instagram Landing Page</title>
+  <title>welcome to my walls</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -37,12 +37,13 @@
   </style>
 </head>
 <body>
-  <img src="your-profile-pic.jpg" alt="Profile Picture" class="profile-pic">
-  <h1>@yourusername</h1>
-  <p>Welcome to my Instagram landing page! 💖</p>
+  <img src="![kabal](https://github.com/user-attachments/assets/adf4cee0-ae09-485b-a0b8-6d9f07d84619)
+" alt="Profile Picture" class="profile-pic">
+  <h1>kabalmark </h1>
+  <p>Welcome to my walls💖</p>
   
-  <a href="https://instagram.com/yourusername" class="btn">Follow me on Instagram</a>
-  <a href="https://youtube.com/yourchannel" class="btn">My YouTube</a>
+  <a href="https://instagram.com/kabalmark" class="btn">Follow me on Instagram</a>
+  <a href="https://youtube.com/kabalmarkhub" class="btn">My YouTube</a>
   <a href="https://yourwebsite.com" class="btn">Visit my Website</a>
 </body>
 </html>
